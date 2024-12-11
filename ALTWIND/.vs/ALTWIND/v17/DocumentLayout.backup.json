@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daicanglan\\Documents\\workspace\\win32\\ALTWIND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B898A83-F4AD-410D-AA28-2F8D1E061981}|ALTWIND\\ALTWIND.vcxproj|C:\\Users\\daicanglan\\Documents\\workspace\\win32\\ALTWIND\\ALTWIND\\ALTWIND.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B898A83-F4AD-410D-AA28-2F8D1E061981}|ALTWIND\\ALTWIND.vcxproj|solutionrelative:ALTWIND\\ALTWIND.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ALTWIND.cpp",
+              "DocumentMoniker": "C:\\Users\\daicanglan\\Documents\\workspace\\win32\\ALTWIND\\ALTWIND\\ALTWIND.cpp",
+              "RelativeDocumentMoniker": "ALTWIND\\ALTWIND.cpp",
+              "ToolTip": "C:\\Users\\daicanglan\\Documents\\workspace\\win32\\ALTWIND\\ALTWIND\\ALTWIND.cpp",
+              "RelativeToolTip": "ALTWIND\\ALTWIND.cpp",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T15:04:55.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
